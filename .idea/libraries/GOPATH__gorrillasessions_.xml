@@ -11,6 +11,7 @@
     </CLASSES>
     <SOURCES />
     <excluded>
+      <root url="file://$PROJECT_DIR$/.git" />
       <root url="file://$PROJECT_DIR$/../../golang/protobuf/proto/testdata" />
       <root url="file://$PROJECT_DIR$/../../goestoeleven/golangtraining/GolangTraining/56_twitter/28_code-review/.idea" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/html/charset/testdata" />
